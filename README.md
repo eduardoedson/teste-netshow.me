@@ -1,8 +1,7 @@
 # teste-netshow.me
 
 ## Teste Prático para Netshow.me
-
-[![Teste Pratico][Teste-Pratico]](https://i.imgur.com/teNwOs2.png)
+![](https://i.imgur.com/teNwOs2.png)
 
 #### Feito com: Yii2
 
